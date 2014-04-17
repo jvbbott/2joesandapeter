@@ -1,0 +1,26 @@
+[
+	{
+		"id": 1,
+		"title": "Idea 1",
+		"summary": "<p>HIHIHI</p>",
+		"image": "http://upload.wikimedia.org/wikipedia/commons/3/3b/Bowery_men_waiting_for_bread_in_bread_line,_New_York_City,_Bain_Collection.jpg"
+	},
+	{
+		"id": 2,
+		"title": "Idea 2",
+		"summary" : "<p>HIHIHI</p>",
+		"image": "http://developertodesigner.files.wordpress.com/2012/11/observing.jpg"
+	},
+	{
+		"id": 3,
+		"title": "Idea 3",
+		"summary" : "<p>HIHIHI</p>",
+		"image": "http://www.google.com/think/images/prototyping-for-success_articles_lg.jpg"
+	},
+	{
+		"id": 4,
+		"title": "Music Recommendation Communcation",
+		"summary" : "<p>HIHIHI</p>",
+		"image": "http://www.google.com/think/images/prototyping-for-success_articles_lg.jpg"
+	}
+]
