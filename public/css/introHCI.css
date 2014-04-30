@@ -1,5 +1,59 @@
-p, li {
+body, html {
+     font-family: Helvetica;
+}
+
+p {
      font-size: 12px;
+}
+
+a:hover {
+     text-decoration: none;
+}
+
+h1#title {
+     font-size: 28px;
+}
+
+.container {
+     width: 80%;
+     float: right;
+     position: relative;
+     padding-left: 20px;
+}
+
+.nav {
+     width: 20%;
+     float: left;
+     position: fixed;
+     height: 100%;
+     text-align: center;
+     /*background: url("../images/lorempixel.jumbotron.jpeg");*/
+     border-right: 2px solid black;
+}
+
+.nav ul {
+     list-style-type: none;
+     padding-left: 0;
+}
+
+a.anchor:hover {
+     text-decoration: none;
+}
+
+.storyboard-img {
+     width: 75%;
+}
+
+#milestones {
+     padding-top: 33%;
+     list-style-type: none;
+     text-align: center;
+     font-size: 14px;
+     padding-left: 0;
+}
+
+#names {
+     margin-top: 100%;
 }
 
 /* applies to anything of class "example-class-selector" */
@@ -20,7 +74,6 @@ p, li {
 
 .jumbotron:after {
      content:"";
-     background: url("../images/lorempixel.jumbotron.jpeg");
      opacity: 0.2;
      top: 0;
      left: 0;
@@ -37,6 +90,9 @@ p, li {
 .project a {
      text-align: center;
 }
+ .thumbnail {
+     padding: 10px;
+ }
 
 .project .details {
      /*overflow: hidden;*/
